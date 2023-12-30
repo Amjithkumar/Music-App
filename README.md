@@ -25,15 +25,15 @@ Music app Integrated with spotify using Spotify Developer webapp using ReactJS
 ## Instructions to Run
 
    1.Create a folder to save the react app in your PC.
-   2.Change the directory in cmd to the newly created folder.
-   3.Then Run the following code in cmd to create a react app this will take some time to install.
+  <br> 2.Change the directory in cmd to the newly created folder.
+    <br>3.Then Run the following code in cmd to create a react app this will take some time to install.
 
       Create-react-app Music-app
 
-  4.This will create a react app named "Music-app" in the specified folder.
-  5.Now download the Public and src folder and replace the file inside the app with this.
-  6.Now open cmd and change the directory to the Rect app folder using "cd" command.
-  7.Run the app using 
+   <br>4.This will create a react app named "Music-app" in the specified folder.
+   <br>5.Now download the Public and src folder and replace the file inside the app with this.
+   <br>6.Now open cmd and change the directory to the Rect app folder using "cd" command.
+  <br> 7.Run the app using 
 
       npm start
 
